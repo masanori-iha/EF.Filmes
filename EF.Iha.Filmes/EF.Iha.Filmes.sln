@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Src", "Src", "{CEF28CF9-D2F7-4A4B-A28A-8B95D6D4DCA6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02-EF.Iha.Filmes.Application", "Src\02-EF.Iha.Filmes.Application\02-EF.Iha.Filmes.Application.csproj", "{392FADB4-0AF4-493E-9130-B370C402390B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03-EF.Iha.Filmes.Domain", "Src\03-EF.Iha.Filmes.Domain\03-EF.Iha.Filmes.Domain.csproj", "{E1F6CCBC-ADC1-48EE-B94F-A44B4C0145BF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04-EF.Iha.Filmes.Repository", "Src\04-EF.Iha.Filmes.Repository\04-EF.Iha.Filmes.Repository.csproj", "{26627246-84AF-421E-9964-C0A0A4F0C85B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-EF.Iha.Filmes.WeaAPI", "Src\01-EF.Iha.Filmes.WeaAPI\01-EF.Iha.Filmes.WeaAPI.csproj", "{F1D27955-A01A-4DA3-992F-0F90A48FFF60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{392FADB4-0AF4-493E-9130-B370C402390B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{392FADB4-0AF4-493E-9130-B370C402390B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{392FADB4-0AF4-493E-9130-B370C402390B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{392FADB4-0AF4-493E-9130-B370C402390B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1F6CCBC-ADC1-48EE-B94F-A44B4C0145BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1F6CCBC-ADC1-48EE-B94F-A44B4C0145BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1F6CCBC-ADC1-48EE-B94F-A44B4C0145BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1F6CCBC-ADC1-48EE-B94F-A44B4C0145BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26627246-84AF-421E-9964-C0A0A4F0C85B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26627246-84AF-421E-9964-C0A0A4F0C85B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26627246-84AF-421E-9964-C0A0A4F0C85B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26627246-84AF-421E-9964-C0A0A4F0C85B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1D27955-A01A-4DA3-992F-0F90A48FFF60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1D27955-A01A-4DA3-992F-0F90A48FFF60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1D27955-A01A-4DA3-992F-0F90A48FFF60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1D27955-A01A-4DA3-992F-0F90A48FFF60}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{392FADB4-0AF4-493E-9130-B370C402390B} = {CEF28CF9-D2F7-4A4B-A28A-8B95D6D4DCA6}
+		{E1F6CCBC-ADC1-48EE-B94F-A44B4C0145BF} = {CEF28CF9-D2F7-4A4B-A28A-8B95D6D4DCA6}
+		{26627246-84AF-421E-9964-C0A0A4F0C85B} = {CEF28CF9-D2F7-4A4B-A28A-8B95D6D4DCA6}
+		{F1D27955-A01A-4DA3-992F-0F90A48FFF60} = {CEF28CF9-D2F7-4A4B-A28A-8B95D6D4DCA6}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {412779AE-BE8A-40DB-872E-A001380FF2C0}
+	EndGlobalSection
+EndGlobal
