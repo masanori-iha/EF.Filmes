@@ -11,4 +11,10 @@
     <ProjectReference Include="..\03-EF.Iha.Filmes.Domain\03-EF.Iha.Filmes.Domain.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Interfaces\" />
+    <Folder Include="AutoMapper\" />
+    <Folder Include="Services\" />
+  </ItemGroup>
+
 </Project>
