@@ -6,7 +6,7 @@ namespace _04_EF.Iha.Filmes.Repository.Context;
 
 public class FilmContext : DbContext
 {
-    DbSet<Film> Films { get; set; }
+    public DbSet<Film> Films { get; set; }
 
     public FilmContext(DbContextOptions<FilmContext> options) : base(options) { }
 

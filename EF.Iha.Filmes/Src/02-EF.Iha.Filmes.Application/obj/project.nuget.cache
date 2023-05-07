@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "aGHp4lPWbCcGiKB1vonjQzMJ9f258/b59OnfgS0FEs7B0sQwyLIfLmi5wVYEOvNKCaJmsKUonRi9fR3qnjG79A==",
+  "dgSpecHash": "NXHInnlj+S1L1E/JuYC1aqpXVn/WC1PonEsNBNqxT5YBv8QuAXySrm0ObHtLg3BdgQdl1JPDNt/ZAsusClZLuQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Masa\\Documents\\3-FIAP\\EF\\EF-2-Treinando-relacionamentos\\EF.Filmes\\EF.Iha.Filmes\\Src\\02-EF.Iha.Filmes.Application\\02-EF.Iha.Filmes.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Masa\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\Masa\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }

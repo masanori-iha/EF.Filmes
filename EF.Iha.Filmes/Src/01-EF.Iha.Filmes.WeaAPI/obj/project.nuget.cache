@@ -1,12 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "sget2DcQwUwaVAq4XU0zPyRhzeaYeGMWr2t4cHTyeJ898KvMjt5kNAHX1LgD4dCl+2715k5X4dVdeBxxSs1pcw==",
+  "dgSpecHash": "KUIjxFWQszGolhyk5oe4vbEH4fJJf+RpopmETUsEgCTQJFpDvx6+WPbEtCIr2P6fkPZ+XbvXQVFAfPX6t+xjNg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Masa\\Documents\\3-FIAP\\EF\\EF-2-Treinando-relacionamentos\\EF.Filmes\\EF.Iha.Filmes\\Src\\01-EF.Iha.Filmes.WeaAPI\\01-EF.Iha.Filmes.WeaAPI.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Masa\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\Masa\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "C:\\Users\\Masa\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Masa\\.nuget\\packages\\microsoft.aspnetcore.mvc.versioning\\5.0.0\\microsoft.aspnetcore.mvc.versioning.5.0.0.nupkg.sha512",
-    "C:\\Users\\Masa\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\Masa\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Masa\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
     "C:\\Users\\Masa\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.1.1\\microsoft.data.sqlclient.sni.runtime.2.1.1.nupkg.sha512",
     "C:\\Users\\Masa\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.16\\microsoft.entityframeworkcore.6.0.16.nupkg.sha512",
