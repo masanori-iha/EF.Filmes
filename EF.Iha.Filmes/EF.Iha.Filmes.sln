@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03-EF.Iha.Filmes.Domain", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04-EF.Iha.Filmes.Repository", "Src\04-EF.Iha.Filmes.Repository\04-EF.Iha.Filmes.Repository.csproj", "{26627246-84AF-421E-9964-C0A0A4F0C85B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-EF.Iha.Filmes.WeaAPI", "Src\01-EF.Iha.Filmes.WeaAPI\01-EF.Iha.Filmes.WeaAPI.csproj", "{F1D27955-A01A-4DA3-992F-0F90A48FFF60}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01-EF.Iha.Filmes.WebAPI", "Src\01-EF.Iha.Filmes.WeaAPI\01-EF.Iha.Filmes.WebAPI.csproj", "{F1D27955-A01A-4DA3-992F-0F90A48FFF60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00-EF.Iha.Filmes.Web", "00-EF.Iha.Filmes.Web\00-EF.Iha.Filmes.Web.csproj", "{81C76196-8DBB-43D5-A311-3C407BD84300}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -35,6 +37,10 @@ Global
 		{F1D27955-A01A-4DA3-992F-0F90A48FFF60}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F1D27955-A01A-4DA3-992F-0F90A48FFF60}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F1D27955-A01A-4DA3-992F-0F90A48FFF60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81C76196-8DBB-43D5-A311-3C407BD84300}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81C76196-8DBB-43D5-A311-3C407BD84300}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81C76196-8DBB-43D5-A311-3C407BD84300}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81C76196-8DBB-43D5-A311-3C407BD84300}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -44,6 +50,7 @@ Global
 		{E1F6CCBC-ADC1-48EE-B94F-A44B4C0145BF} = {CEF28CF9-D2F7-4A4B-A28A-8B95D6D4DCA6}
 		{26627246-84AF-421E-9964-C0A0A4F0C85B} = {CEF28CF9-D2F7-4A4B-A28A-8B95D6D4DCA6}
 		{F1D27955-A01A-4DA3-992F-0F90A48FFF60} = {CEF28CF9-D2F7-4A4B-A28A-8B95D6D4DCA6}
+		{81C76196-8DBB-43D5-A311-3C407BD84300} = {CEF28CF9-D2F7-4A4B-A28A-8B95D6D4DCA6}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {412779AE-BE8A-40DB-872E-A001380FF2C0}

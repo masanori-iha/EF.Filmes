@@ -2347,9 +2347,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Masa\\Documents\\3-FIAP\\EF\\EF-2-Treinando-relacionamentos\\EF.Filmes\\EF.Iha.Filmes\\Src\\01-EF.Iha.Filmes.WeaAPI\\01-EF.Iha.Filmes.WeaAPI.csproj",
-      "projectName": "01-EF.Iha.Filmes.WeaAPI",
-      "projectPath": "C:\\Users\\Masa\\Documents\\3-FIAP\\EF\\EF-2-Treinando-relacionamentos\\EF.Filmes\\EF.Iha.Filmes\\Src\\01-EF.Iha.Filmes.WeaAPI\\01-EF.Iha.Filmes.WeaAPI.csproj",
+      "projectUniqueName": "C:\\Users\\Masa\\Documents\\3-FIAP\\EF\\EF-2-Treinando-relacionamentos\\EF.Filmes\\EF.Iha.Filmes\\Src\\01-EF.Iha.Filmes.WeaAPI\\01-EF.Iha.Filmes.WebAPI.csproj",
+      "projectName": "01-EF.Iha.Filmes.WebAPI",
+      "projectPath": "C:\\Users\\Masa\\Documents\\3-FIAP\\EF\\EF-2-Treinando-relacionamentos\\EF.Filmes\\EF.Iha.Filmes\\Src\\01-EF.Iha.Filmes.WeaAPI\\01-EF.Iha.Filmes.WebAPI.csproj",
       "packagesPath": "C:\\Users\\Masa\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Masa\\Documents\\3-FIAP\\EF\\EF-2-Treinando-relacionamentos\\EF.Filmes\\EF.Iha.Filmes\\Src\\01-EF.Iha.Filmes.WeaAPI\\obj\\",
       "projectStyle": "PackageReference",

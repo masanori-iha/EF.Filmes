@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KUIjxFWQszGolhyk5oe4vbEH4fJJf+RpopmETUsEgCTQJFpDvx6+WPbEtCIr2P6fkPZ+XbvXQVFAfPX6t+xjNg==",
+  "dgSpecHash": "wA907fzxvetX9Ac+I0Qvb+h2aM29bgXciZvMxy44BwwU4C9EFiHpGvLlQNk4wOREGCAnCfxm/K0JE7C/lBlnVA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Masa\\Documents\\3-FIAP\\EF\\EF-2-Treinando-relacionamentos\\EF.Filmes\\EF.Iha.Filmes\\Src\\01-EF.Iha.Filmes.WeaAPI\\01-EF.Iha.Filmes.WeaAPI.csproj",
+  "projectFilePath": "C:\\Users\\Masa\\Documents\\3-FIAP\\EF\\EF-2-Treinando-relacionamentos\\EF.Filmes\\EF.Iha.Filmes\\Src\\01-EF.Iha.Filmes.WeaAPI\\01-EF.Iha.Filmes.WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Masa\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Masa\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
